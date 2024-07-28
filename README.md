@@ -16,7 +16,7 @@ Enter the details of the utility bill in the input field and specify the type of
 
 1. To get the Maintenance Split App up and running, follow these steps:
 
-Clone the repository: git clone [Repository URL]
+Clone the repository: git clone [(https://github.com/NinaVol/Maintenance-Split-App.git)]
 
 2. Open the index.html file in a modern web browser to access the application.
 
