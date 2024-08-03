@@ -24,6 +24,9 @@ Clone the repository: git clone [(https://github.com/NinaVol/Maintenance-Split-A
 
 Designed to foster a harmonious living environment, this app ensures that financial responsibilities for maintenance are transparent and managed efficiently. Whether dealing with regular monthly bills or occasional maintenance costs, the app accommodates various needs, making it easy to manage shared expenses.
 
+##Link
+https://maintenance-split-app-nv.netlify.app
+
 ## License
 
 This project is distributed under the MIT License, supporting free usage and modification by users and developers alike.
